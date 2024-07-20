@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamun\\source\\repos\\TripLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\views\\trip\\addpage3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:views\\trip\\addpage3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\models\\trippage3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:models\\trippage3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\models\\thingtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:models\\thingtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|c:\\users\\kamun\\source\\repos\\triplog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8CA8EF-4524-411E-8546-CB02119176F6}|TripLog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\Trip.cs",
+              "RelativeToolTip": "Models\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:51:49.897Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:44:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Controllers\\TripController.cs",
+              "RelativeToolTip": "Controllers\\TripController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:44:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThingToDo.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\ThingToDo.cs",
+              "RelativeDocumentMoniker": "Models\\ThingToDo.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\ThingToDo.cs",
+              "RelativeToolTip": "Models\\ThingToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:41:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripPage3ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\TripPage3ViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TripPage3ViewModel.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\TripPage3ViewModel.cs",
+              "RelativeToolTip": "Models\\TripPage3ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:41:18.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPage3.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Views\\Trip\\AddPage3.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trip\\AddPage3.cshtml",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Views\\Trip\\AddPage3.cshtml",
+              "RelativeToolTip": "Views\\Trip\\AddPage3.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwDUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:40:24.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:26:05.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:08:06.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\TripContext.cs",
+              "RelativeDocumentMoniker": "Models\\TripContext.cs",
+              "ToolTip": "C:\\Users\\kamun\\source\\repos\\TripLog\\Models\\TripContext.cs",
+              "RelativeToolTip": "Models\\TripContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:03:34.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
